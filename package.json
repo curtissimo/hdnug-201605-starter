@@ -1,0 +1,15 @@
+{
+  "name": "hdnug-20160512",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webcomponents.js": "^0.7.22",
+    "x-tag": "^1.5.7"
+  }
+}
